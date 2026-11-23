@@ -78,8 +78,8 @@ queue:Clear()       --Clears the 3 occupied slots, not all 4096
 
 ## Time complexity
 
-`C` = allocated capacity
-`n` = existing elements/bytes copied during growth
+`C` = allocated capacity  
+`n` = existing elements/bytes copied during growth  
 `k` = elements/bytes processed
 
 ### RingBuffer
